@@ -1,0 +1,14 @@
+.tool-table-container {
+    width: 95%;
+    margin: 0 auto;
+    min-height: 545px;
+    border: 10px solid blue;
+    margin-top: 10px;
+}
+
+.tools-form {
+    background-color: cyan;
+    display: flex;
+    justify-content: end;
+}
+
